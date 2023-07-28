@@ -1,5 +1,7 @@
-import { Box, Typography } from '@mui/material'
 import React from 'react'
+//material ui
+import { Box, Typography } from '@mui/material'
+//content
 import { style } from '../../data/content'
 
 const Title = ({

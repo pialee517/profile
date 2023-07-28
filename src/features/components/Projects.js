@@ -1,10 +1,13 @@
-import { Box, Grid } from '@mui/material'
-import React, { useState } from 'react'
-import Title from './Title';
-import { content } from '../../data/content';
-import { style } from '../../data/content';
-import Item from './Item';
+import React from 'react'
 import { useOutletContext } from 'react-router-dom';
+
+//material ui
+import { Box, Grid } from '@mui/material'
+//component
+import Title from './Title';
+import Item from './Item';
+//content
+import { content,style } from '../../data/content';
 
 const Projects = () => {
     const projects = content.projects

@@ -1,7 +1,10 @@
-import { Box, Button, Card, CardMedia, Paper, Typography } from '@mui/material'
 import React from 'react'
+
+//material ui
+import { Box, Button, Typography } from '@mui/material'
+
+//content
 import { style, buttons, content } from '../../data/content'
-import Title from './Title'
 import { useOutletContext } from 'react-router-dom'
 
 const Banner = () => {

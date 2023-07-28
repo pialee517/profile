@@ -1,5 +1,7 @@
 import React, { useRef, useState } from 'react'
 import { Outlet } from "react-router-dom";
+
+//component
 import Footer from './Footer'
 import Nav from './Nav';
 

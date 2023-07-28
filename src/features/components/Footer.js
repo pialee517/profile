@@ -1,11 +1,15 @@
-import { AppBar, Box, Button, ListItem, Typography } from '@mui/material'
 import React from 'react'
+
+//material ui
+import { Box} from '@mui/material'
+
+//content
 import { buttons, content, style } from '../../data/content'
+
+//component
 import Title from './Title'
-import { useNavigate, useOutletContext } from 'react-router-dom'
 
 const Footer = () => {
-  const navigate = useNavigate()
   const footer = content.footer
   const button = buttons.source
   return (

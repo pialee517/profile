@@ -13,7 +13,6 @@ import Title from './Title'
 
 //content
 import { content, style, buttons } from '../../data/content'
-import { Directions } from '@mui/icons-material'
 import { useOutletContext } from 'react-router-dom'
 
 

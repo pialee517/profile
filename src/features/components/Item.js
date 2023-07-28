@@ -1,6 +1,12 @@
-import { Box, Button, Paper, Typography } from '@mui/material'
 import React from 'react'
+
+//material ui
+import { Box, Button, Typography } from '@mui/material'
+
+//component
 import Title from './Title'
+
+//content
 import {style} from './../../data/content'
 
 const Item = ({item}) => {

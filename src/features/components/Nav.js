@@ -1,8 +1,12 @@
 import React from 'react'
-import { Box, Button, Slide, useMediaQuery, useScrollTrigger, useTheme } from '@mui/material'
-import { AppBar, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Toolbar, IconButton, Typography } from '@mui/material'
+
+//material ui
+import { Box, Slide, useMediaQuery, useScrollTrigger, useTheme } from '@mui/material'
+import { AppBar, List, ListItem, ListItemText, Toolbar } from '@mui/material'
 
 import { NavLink, useNavigate } from 'react-router-dom';
+
+//content
 import {content, style} from './../../data/content'
 
 const Nav = ({scrollMethod}) => {

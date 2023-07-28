@@ -1,3 +1,7 @@
+import React from 'react'
+import { useOutletContext } from 'react-router-dom';
+
+//material ui + timeline
 import Timeline from '@mui/lab/Timeline';
 import TimelineItem, {timelineItemClasses} from '@mui/lab/TimelineItem';
 import TimelineSeparator from '@mui/lab/TimelineSeparator';
@@ -5,14 +9,12 @@ import TimelineConnector from '@mui/lab/TimelineConnector';
 import TimelineContent from '@mui/lab/TimelineContent';
 import TimelineDot from '@mui/lab/TimelineDot';
 import TimelineOppositeContent from '@mui/lab/TimelineOppositeContent'
-import React from 'react'
 import { Box, Typography, useMediaQuery, useTheme } from '@mui/material';
-import { TimelineOutlined } from '@mui/icons-material';
 
+//content
 import {content, style} from './../../data/content'
-
+//component
 import TitleItem from './Title';
-import { useOutletContext } from 'react-router-dom';
 
 
 const TimeLine = () => {

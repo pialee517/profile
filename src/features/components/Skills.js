@@ -1,11 +1,13 @@
 import React from 'react'
+import { useOutletContext } from 'react-router-dom';
+//component
 import TitleItem from './Title'
+//material ui
 import { Accordion, AccordionDetails, AccordionSummary, Box, Grid, LinearProgress, Typography } from '@mui/material'
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import CodeIcon from '@mui/icons-material/Code';
+//content
 import {content, style} from './../../data/content'
-import { useOutletContext } from 'react-router-dom';
-import { SpaceBar } from '@mui/icons-material';
+
 
 
 const Skills = () => {

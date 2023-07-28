@@ -1,33 +1,20 @@
-import HomeIcon from '@mui/icons-material/Home';
-import SchoolIcon from '@mui/icons-material/School';
-import MenuIcon from '@mui/icons-material/Menu';
-import DarkModeIcon from '@mui/icons-material/DarkMode';
-import LightModeIcon from '@mui/icons-material/LightMode';
+//icons
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EmailIcon from '@mui/icons-material/Email';
 import WorkIcon from '@mui/icons-material/Work';
 import CodeIcon from '@mui/icons-material/Code';
-import PersonIcon from '@mui/icons-material/Person';
-import ContentPasteIcon from '@mui/icons-material/ContentPaste';
-import DataObjectIcon from '@mui/icons-material/DataObject';
 import DataUsageIcon from '@mui/icons-material/DataUsage';
 import DesignServicesIcon from '@mui/icons-material/DesignServices';
-import BugReportIcon from '@mui/icons-material/BugReport';
 import TerminalIcon from '@mui/icons-material/Terminal';
 import SendIcon from '@mui/icons-material/Send';
 import HighlightOffIcon from '@mui/icons-material/HighlightOff';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
-import ListIcon from '@mui/icons-material/List';
 import AutoStoriesIcon from '@mui/icons-material/AutoStories';
 import PhoneIcon from '@mui/icons-material/Phone';
 import AlternateEmailIcon from '@mui/icons-material/AlternateEmail';
-import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import DownloadForOfflineIcon from '@mui/icons-material/DownloadForOffline';
-import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 import SouthEastIcon from '@mui/icons-material/SouthEast';
-import FolderSharedIcon from '@mui/icons-material/FolderShared';
 import HistoryEduIcon from '@mui/icons-material/HistoryEdu';
-// import DesignServicesIcon from '@mui/icons-material/DesignServices';
 import GitHubIcon from '@mui/icons-material/GitHub';
 
 //about image
