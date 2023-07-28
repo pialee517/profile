@@ -5,7 +5,7 @@ import NotFound from "./features/components/NotFound";
 
 const router = createBrowserRouter(createRoutesFromElements(
     <Route>
-        <Route path='/' element={<Layout />}>
+        <Route path='/profile' element={<Layout />}>
             <Route index element={<Home />} />
             <Route path='home' element={<Home />} />
         </Route>
