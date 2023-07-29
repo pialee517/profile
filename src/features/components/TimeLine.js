@@ -55,7 +55,7 @@ const TimeLine = () => {
         <Timeline sx={{pb:style.spacing.medium}}>
             {items.map((item, idx)=>(
             <TimelineItem key={`${item.title}_${idx}`}>
-                {(item.category=='study') ?
+                {(item.category==='study') ?
                 <TimelineOppositeContent sx={{ py: 0, px: 2 }}>
                     <Typography variant="h6" fontWeight='bold' component="span">
                         {item.title}
