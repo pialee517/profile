@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.e5e0f93c.css",
-    "main.js": "/profile/static/js/main.8b379c39.js",
+    "main.js": "/profile/static/js/main.e3be09f6.js",
     "static/media/disney.png": "/profile/static/media/disney.bfe4ee483103b1683b41.png",
     "static/media/tesla.png": "/profile/static/media/tesla.d0b0026c1af174fd61fb.png",
     "static/media/face.png": "/profile/static/media/face.e0b70c686697b3040967.png",
@@ -11,10 +11,10 @@
     "static/media/noshoplogo.png": "/profile/static/media/noshoplogo.126a2be6307b0e275ef4.png",
     "index.html": "/profile/index.html",
     "main.e5e0f93c.css.map": "/profile/static/css/main.e5e0f93c.css.map",
-    "main.8b379c39.js.map": "/profile/static/js/main.8b379c39.js.map"
+    "main.e3be09f6.js.map": "/profile/static/js/main.e3be09f6.js.map"
   },
   "entrypoints": [
     "static/css/main.e5e0f93c.css",
-    "static/js/main.8b379c39.js"
+    "static/js/main.e3be09f6.js"
   ]
 }
