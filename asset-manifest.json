@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.e5e0f93c.css",
+    "main.js": "/profile/static/js/main.adce5675.js",
+    "static/media/disney.png": "/profile/static/media/disney.bfe4ee483103b1683b41.png",
+    "static/media/tesla.png": "/profile/static/media/tesla.d0b0026c1af174fd61fb.png",
+    "static/media/face.png": "/profile/static/media/face.e0b70c686697b3040967.png",
+    "static/media/noshop.png": "/profile/static/media/noshop.80d266c2c29bde794793.png",
+    "static/media/Resume 2023.pdf": "/profile/static/media/Resume 2023.6f4c0765f694d35e8785.pdf",
+    "static/media/disneylogo.png": "/profile/static/media/disneylogo.e849ccebd55e339e850a.png",
+    "static/media/noshoplogo.png": "/profile/static/media/noshoplogo.126a2be6307b0e275ef4.png",
+    "index.html": "/profile/index.html",
+    "main.e5e0f93c.css.map": "/profile/static/css/main.e5e0f93c.css.map",
+    "main.adce5675.js.map": "/profile/static/js/main.adce5675.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e0f93c.css",
+    "static/js/main.adce5675.js"
+  ]
+}
