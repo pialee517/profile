@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom'
 //material ui
 import { Box, Button, Typography, useTheme } from '@mui/material'
 //content
-import { style } from '../../data/content'
+import { style } from './data/content'
 
 const NotFound = () => {
     const theme = useTheme()
