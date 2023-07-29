@@ -13,7 +13,7 @@ const NotFound = () => {
         <Typography gutterBottom variant='h3' p={style.spacing.medium}>
             Page not Found
         </Typography>
-        <Button variant='contained' onClick={()=>{navigate('profile')}}>Back to the home page</Button>
+        <Button variant='contained' onClick={()=>{navigate('/profile')}}>Back to the home page</Button>
     </Box>
   )
 }

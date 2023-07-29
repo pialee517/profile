@@ -23,7 +23,7 @@ const Nav = ({scrollMethod}) => {
             <Box sx={{mx:style.spacing.small, display:{xs:'none', sm:'block'}, 
                 height:'40px', width:'40px', cursor:'pointer', 
                 background:`url(${menu[0].name}) no-repeat center center/contain`}} 
-                onClick={()=>{navigate('home')}}/>
+                onClick={()=>{navigate('/profile')}}/>
             <List sx={{width:{xs:style.width.full, sm:'initial'}, display:'flex', flexDirection:'row', justifyContent:'space-between',px:(xsmall) ? 0: 1, alignItems:'center'}}>
                 {menu.map((item, idx)=>(
                 <ListItem key={idx} sx={{display:(xsmall || !(idx===0))? 'list-item':'none', width: (xsmall)? '50px': 'inherit', textAlign:'center'}}>
